@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Nexen_R';
+    src: url('//cdn.jsdelivr.net/gh/golrazo/font-urm@1.0/Nexen_R.eot');
+    src: url('//cdn.jsdelivr.net/gh/golrazo/font-urm@1.0/Nexen_R.eot?#iefix') format('embedded-opentype'),
+        url('//cdn.jsdelivr.net/gh/golrazo/font-urm@1.0/Nexen_R.woff') format('woff'),
+        url('//cdn.jsdelivr.net/gh/golrazo/font-urm@1.0/Nexen_R.ttf') format('truetype'),
+        url('//cdn.jsdelivr.net/gh/golrazo/font-urm@1.0/Nexen_R.svg#Nexen_R') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
