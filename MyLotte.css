@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'MyLotte';
+    src: url('MyLotteBold.eot');
+    src: url('MyLotteBold.eot?#iefix') format('embedded-opentype'),
+        url('MyLotteBold.woff') format('woff'),
+        url('MyLotteBold.ttf') format('truetype'),
+        url('MyLotteBold.svg#MyLotteBold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MyLotte';
+    src: url('MyLotteLight.eot');
+    src: url('MyLotteLight.eot?#iefix') format('embedded-opentype'),
+        url('MyLotteLight.woff') format('woff'),
+        url('MyLotteLight.ttf') format('truetype'),
+        url('MyLotteLight.svg#MyLotteLight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MyLotte';
+    src: url('MyLotteMedium.eot');
+    src: url('MyLotteMedium.eot?#iefix') format('embedded-opentype'),
+        url('MyLotteMedium.woff') format('woff'),
+        url('MyLotteMedium.ttf') format('truetype'),
+        url('MyLotteMedium.svg#MyLotteMedium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MyLotte';
+    src: url('MyLotteRegular.eot');
+    src: url('MyLotteRegular.eot?#iefix') format('embedded-opentype'),
+        url('MyLotteRegular.woff') format('woff'),
+        url('MyLotteRegular.ttf') format('truetype'),
+        url('MyLotteRegular.svg#MyLotteRegular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
